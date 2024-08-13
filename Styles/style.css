@@ -1,0 +1,12 @@
+@charset "utf-8";
+
+@font-face {
+    font-family: pixelHeading;
+    src: url(../Fonts/Alkhemikal.ttf);
+} 
+
+
+/* HTML and Body */
+title {
+    font-family: pixelHeading;
+}
